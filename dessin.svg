@@ -19,6 +19,11 @@
   <defs
      id="defs4">
     <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern5219"
+       patternTransform="matrix(0,9.9999993,-9.9999993,0,0,0)" />
+    <pattern
        inkscape:stockid="Stripes 1:1"
        id="Strips1_1"
        patternTransform="translate(0,0) scale(10,10)"
@@ -45,15 +50,6 @@
          offset="1"
          id="stop3778" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3774"
-       id="linearGradient3780"
-       x1="57.276"
-       y1="178.57143"
-       x2="231.29543"
-       y2="178.57143"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -62,9 +58,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-67.857143"
-     inkscape:cy="520"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="127.47651"
+     inkscape:cy="130.23279"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -92,10 +88,10 @@
      transform="translate(0,-652.36218)">
     <path
        transform="translate(0,652.36218)"
-       style="color:#000000;fill:url(#Strips1_1);fill-opacity:1.0;fill-rule:nonzero;stroke:#ff0b67;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 31.428571,77.14286 197.142859,20 37.14286,225.71429 L 60,260.00001 z"
+       style="color:#000000;fill:url(#pattern5219);fill-opacity:1;fill-rule:nonzero;stroke:#ff0b67;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 42.857142,171.42857 c 0,0 82.439488,-145.870692 179.999998,-48.57142 97.56051,97.29927 114.28572,237.14286 114.28572,237.14286 0,0 -401.156595,24.01373 -277.14286,-100 C 184.01373,135.98628 42.857142,171.42857 42.857142,171.42857 z"
        id="rect2985"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="czczc" />
   </g>
 </svg>
