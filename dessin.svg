@@ -38,6 +38,15 @@
        x2="231.29543"
        y2="178.57143"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3774"
+       id="linearGradient3783"
+       gradientUnits="userSpaceOnUse"
+       x1="151.56172"
+       y1="278.57141"
+       x2="174.15257"
+       y2="95.714287" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -74,13 +83,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-652.36218)">
-    <rect
-       style="color:#000000;fill:url(#linearGradient3780);fill-opacity:1;fill-rule:nonzero;stroke:#ff3880;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+    <path
+       transform="translate(0,652.36218)"
+       style="color:#000000;fill:url(#linearGradient3783);fill-opacity:1;fill-rule:nonzero;stroke:#ff3880;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 31.428571,77.14286 197.142859,20 37.14286,225.71429 L 60,260.00001 z"
        id="rect2985"
-       width="168.57143"
-       height="162.85715"
-       x="60"
-       y="97.14286"
-       transform="translate(0,652.36218)" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
