@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="dessin.svg">
+   sodipodi:docname="spiral.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -52,7 +52,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffff00"
+     pagecolor="#ffb300"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
@@ -87,7 +87,7 @@
      transform="translate(0,-652.36218)">
     <path
        sodipodi:type="spiral"
-       style="fill:none;stroke:url(#radialGradient6364);stroke-width:8.69999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:url(#radialGradient6364);stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path6354"
        sodipodi:cx="166.67517"
        sodipodi:cy="159.58369"
