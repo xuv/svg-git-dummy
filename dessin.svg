@@ -18,6 +18,22 @@
    sodipodi:docname="dessin.svg">
   <defs
      id="defs4">
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4504"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
     <linearGradient
        id="linearGradient3774">
       <stop
@@ -38,15 +54,6 @@
        x2="231.29543"
        y2="178.57143"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3774"
-       id="linearGradient3783"
-       gradientUnits="userSpaceOnUse"
-       x1="151.56172"
-       y1="278.57141"
-       x2="174.15257"
-       y2="95.714287" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -85,7 +92,7 @@
      transform="translate(0,-652.36218)">
     <path
        transform="translate(0,652.36218)"
-       style="color:#000000;fill:url(#linearGradient3783);fill-opacity:1;fill-rule:nonzero;stroke:#ff3880;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:url(#Strips1_1);fill-opacity:1.0;fill-rule:nonzero;stroke:#ff0b67;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 31.428571,77.14286 197.142859,20 37.14286,225.71429 L 60,260.00001 z"
        id="rect2985"
        inkscape:connector-curvature="0"
