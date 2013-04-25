@@ -38,15 +38,6 @@
        x2="231.29543"
        y2="178.57143"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3774"
-       id="linearGradient3783"
-       gradientUnits="userSpaceOnUse"
-       x1="198.02873"
-       y1="261.3988"
-       x2="174.15257"
-       y2="95.714287" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -84,21 +75,58 @@
      id="layer1"
      transform="translate(0,-652.36218)">
     <path
-       transform="translate(0,652.36218)"
-       style="color:#000000;fill:url(#linearGradient3783);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 38.499639,41.787521 176.46702,154.82308 235.6425,61.787521 328.96522,70.598954 272.78536,287.50181 96.187077,162.12905 l 1.188567,76.65776 -79.94563,1.50546 z"
-       id="rect2985"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
+       sodipodi:type="star"
+       style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path6348"
+       sodipodi:sides="5"
+       sodipodi:cx="194.95944"
+       sodipodi:cy="269.69031"
+       sodipodi:r1="91.160324"
+       sodipodi:r2="45.580162"
+       sodipodi:arg1="1.3473197"
+       sodipodi:arg2="1.9756383"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 215.1625,358.58373 -38.15588,-46.99775 -60.34676,4.78815 32.9067,-50.81149 -23.20198,-55.91357 58.49334,15.59452 46.00715,-39.34463 3.24417,60.44944 51.63596,31.59724 -56.48833,21.76529 z"
+       transform="translate(89.903577,676.60584)"
+       inkscape:transform-center-x="-6.2430861"
+       inkscape:transform-center-y="2.551039" />
     <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path6346"
-       sodipodi:cx="197.9899"
-       sodipodi:cy="301.00504"
-       sodipodi:rx="61.619305"
-       sodipodi:ry="61.619305"
-       d="m 259.6092,301.00504 a 61.619305,61.619305 0 1 1 -123.23861,0 61.619305,61.619305 0 1 1 123.23861,0 z"
-       transform="translate(0,652.36218)" />
+       sodipodi:type="star"
+       style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path6350"
+       sodipodi:sides="5"
+       sodipodi:cx="68.690376"
+       sodipodi:cy="38.365391"
+       sodipodi:r1="74.628334"
+       sodipodi:r2="37.314167"
+       sodipodi:arg1="0.88125731"
+       sodipodi:arg2="1.5095758"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 116.16755,95.944088 70.973343,75.609654 28.601034,101.31166 33.974453,52.045731 -3.5633717,19.689627 44.951789,9.576043 64.124447,-36.123135 88.735046,6.8922552 138.12222,11.004713 104.81725,47.703271 z"
+       transform="translate(39.395949,722.06271)"
+       inkscape:transform-center-x="1.4109497"
+       inkscape:transform-center-y="-5.7711281" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path6352"
+       sodipodi:sides="5"
+       sodipodi:cx="137.38075"
+       sodipodi:cy="209.08118"
+       sodipodi:r1="59.00536"
+       sodipodi:r2="29.502682"
+       sodipodi:arg1="0.66404616"
+       sodipodi:arg2="1.2923647"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 183.84777,245.44667 -38.35826,-7.99903 -28.3353,27.06385 -4.24583,-38.95271 -34.495332,-18.58528 35.734192,-16.07507 7.01601,-38.55018 26.33077,29.01777 38.83147,-5.24005 -19.46088,34.00904 z"
+       transform="translate(10.101525,671.55508)"
+       inkscape:transform-center-x="5.0114852"
+       inkscape:transform-center-y="-0.65130689" />
   </g>
 </svg>
