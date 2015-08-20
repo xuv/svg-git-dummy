@@ -14,7 +14,7 @@
    height="400"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="spiral.svg">
   <defs
      id="defs4">
@@ -42,12 +42,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3774"
        id="radialGradient6364"
-       cx="164.31543"
-       cy="160.07071"
-       fx="164.31543"
-       fy="160.07071"
+       cx="131.42772"
+       cy="162.33379"
+       fx="131.42772"
+       fy="162.33379"
        r="117.15742"
-       gradientTransform="matrix(0.75015496,0,0,1.6326637,41.053395,-101.59217)"
+       gradientTransform="matrix(1.5159666,1.69053,-2.2790305,2.043694,315.82586,246.18888)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -58,15 +58,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="127.47651"
+     inkscape:cx="176.29203"
      inkscape:cy="130.23279"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="776"
+     inkscape:window-width="1890"
+     inkscape:window-height="1061"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,16 +87,15 @@
      transform="translate(0,-652.36218)">
     <path
        sodipodi:type="spiral"
-       style="fill:none;stroke:url(#radialGradient6364);stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:url(#radialGradient6364);stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6354"
-       sodipodi:cx="166.67517"
-       sodipodi:cy="159.58369"
+       sodipodi:cx="190.89853"
+       sodipodi:cy="843.40277"
        sodipodi:expansion="1"
-       sodipodi:revolution="3"
-       sodipodi:radius="129.99608"
+       sodipodi:revolution="4.2507043"
+       sodipodi:radius="184.19156"
        sodipodi:argument="-17.959568"
-       sodipodi:t0="0"
-       d="m 166.67517,159.58369 c 4.10244,5.06475 -4.80318,8.02878 -8.41794,6.81853 -9.79579,-3.2797 -10.05956,-16.29555 -5.21911,-23.65441 8.65842,-13.16327 27.51948,-12.83192 38.89087,-3.61969 16.68798,13.51931 15.70471,38.90227 2.02029,54.12734 -18.23919,20.29262 -50.34232,18.62137 -69.36381,0.42087 -23.93661,-22.90348 -21.56096,-61.80987 1.17854,-84.60028 27.54059,-27.602241 73.29294,-24.513859 99.83675,2.77796 31.28095,32.16246 27.47512,84.78571 -4.37738,115.07321 -36.77496,34.96812 -96.28494,30.44197 -130.309676,-5.97679 C 52.252634,179.56913 57.500994,113.16172 98.489906,75.404286 144.47327,33.046153 217.7857,39.018001 259.27252,84.579903 305.33075,135.16225 298.6345,215.38527 248.49749,260.59898"
-       transform="translate(22.223356,697.81905)" />
+       sodipodi:t0="0.30591115"
+       d="m 138.25464,863.49059 c -16.03475,-30.33064 -1.11188,-67.83134 28.69403,-82.85291 35.87529,-18.08042 79.6661,-0.34783 96.83614,34.95319 20.14169,41.41061 -0.41167,91.5117 -41.21234,110.81938 -46.94021,22.21303 -103.36461,-1.16813 -124.802615,-47.4715 -24.291271,-52.46605 1.922437,-115.22269 53.730655,-138.78585 57.98931,-26.37442 127.08456,2.67519 152.76908,59.98981 28.46119,63.51071 -3.42676,138.9493 -66.24896,166.75232 -69.03072,30.5507 -150.816259,-4.17744 -180.735556,-72.50812 -32.642345,-74.54967 4.927414,-162.68496 78.767276,-194.71879 80.0678,-34.73568 174.55508,5.67682 208.70202,85.02643 36.83038,85.58528 -6.42577,186.42634 -91.28558,222.68525 -71.19541,30.4204 -155.745932,9.5843 -206.21054,-48.67742" />
   </g>
 </svg>
